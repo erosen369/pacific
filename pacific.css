@@ -1,3 +1,14 @@
+/*
+ * Ethan Rosenbaum
+ * 06/05/2023
+ * GUI 4610, HW2
+ *
+ * Original file by W. Zhou, modifications to file by me.
+ *
+ * Header adapted from HW1 header comment form.
+ */
+
+
 header, hgroup, nav, footer, figure, figcaption, aside, section, article {
 	display: block;
 }
